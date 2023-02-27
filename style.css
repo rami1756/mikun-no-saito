@@ -1,0 +1,53 @@
+body {
+    background-color: #f2f2f2;
+    font-family: "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+    color: #333;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 36px;
+    margin: 0;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+    margin-right: 20px;
+  }
+  
+  section {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+  }
+  
+  article {
+    flex: 2;
+    margin-right: 20px;
+  }
+  
+  aside {
+    flex: 1;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
